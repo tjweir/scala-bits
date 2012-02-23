@@ -1,2 +1,2 @@
-Bits of scala code i forget.
+Bits of scala code I forget.
 
